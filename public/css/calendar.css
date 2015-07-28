@@ -1,0 +1,22 @@
+/* SPECIFIC TO CALENDRAR: */
+
+span.dateLabel {
+display : block;   
+font-size : 80%;
+    font-family: GFSGazis,sans-serif;
+font-weight : bold;
+}
+
+span.highlight {
+display : block;
+font-weight : bold;
+        font-family: GFSGazis,sans-serif;
+}
+tr {
+height : 3em;
+
+}
+
+span.skip {
+    color : #aaa;
+}

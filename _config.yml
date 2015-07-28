@@ -1,0 +1,33 @@
+# Dependencies
+kramdown:
+  input: GFM
+#markdown: redcarpet
+
+highlighter: pygments
+
+#:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            How to read the oldest complete manuscript of the Iliad
+tagline: ''
+description:      ''
+url:
+baseurl: '/read-the-Iliad/'
+
+author:
+  name:           'Neel Smith'
+
+paginate:         5
+
+
+# Links:
+links:
+  - title: HC MID
+    url: http://HCMID.github.io/
+    external: true
+     
+     
+

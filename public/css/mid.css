@@ -1,0 +1,33 @@
+
+.posts {
+    float: right;
+    width: 30%;
+    /*border: 1px silver solid;*/
+    
+    font-size: 75%;
+    padding: .25em .5em;
+    margin-top: 2em;
+    border: solid 1px silver;
+    
+
+}
+
+ul.postslist {
+    padding: 0;
+}
+
+.postslist li {
+
+    list-style-type: none;
+    border-bottom: solid 1px silver;
+    margin-bottom: 1.5em;
+}
+
+.datelabel {
+    font-weight: bold;
+}
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+}
